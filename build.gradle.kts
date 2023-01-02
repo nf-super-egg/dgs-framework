@@ -30,7 +30,7 @@ plugins {
     id("nebula.netflixoss") version "11.1.1"
     id("org.jmailen.kotlinter") version "3.11.1"
     id("me.champeau.jmh") version "0.6.6"
-    kotlin("jvm") version Versions.KOTLIN_VERSION
+    kotlin("jvm") version 1.8.0
     kotlin("kapt") version Versions.KOTLIN_VERSION
     idea
     eclipse
